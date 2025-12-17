@@ -1,0 +1,10 @@
+﻿chroma_db/
+uploaded_files/
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+medical_documents/*.pdf
+temp_*
+*.log
